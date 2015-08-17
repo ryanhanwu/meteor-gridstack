@@ -1,0 +1,3 @@
+[submodule "lib/gridstack.js"]
+	path = lib/gridstack.js
+	url = https://github.com/troolee/gridstack.js.git
