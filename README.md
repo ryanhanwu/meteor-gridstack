@@ -7,18 +7,17 @@ This is a [meteor](https://www.meteor.com/) package which contains lastest versi
 
 ## Installation
 ```
-meteor add ryanwu:gridstack
+meteor add ryanwu:meteor-gridstack
 ```
 
 or
 
 ```
-mrt add jquery-ui-interactions
+mrt add meteor-gridstack
 ```
 
 ## Dependancy
 * Meteor Package [JQuery UI interactions](https://github.com/ryanhanwu/meteor-jquery-ui-interactions)
-
 
 
 ## License
