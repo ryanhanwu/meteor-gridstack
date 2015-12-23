@@ -1,3 +1,5 @@
+[![Meteor Icon](http://icon.meteor.com/package/ryanwu:meteor-gridstack)](https://atmospherejs.com/ryanwu/meteor-gridstack)
+
 # Meteor Gridstack JS
 
 ## About
@@ -8,12 +10,6 @@ This is a [meteor](https://www.meteor.com/) package which contains lastest versi
 ## Installation
 ```
 meteor add ryanwu:meteor-gridstack
-```
-
-or
-
-```
-mrt add meteor-gridstack
 ```
 
 ## Dependancy
